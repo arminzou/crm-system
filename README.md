@@ -89,3 +89,6 @@ Admin can access all operations
 ![role-table](https://user-images.githubusercontent.com/39773496/51560837-a9b76c80-1e53-11e9-983b-53b1735fe196.JPG)
 
 > Note: The passwords are encrypted using bcrypted password. Simply use `fun123` as password for testing purpose. 
+
+## Demo:
+![crm-demo](https://user-images.githubusercontent.com/39773496/51571544-6a4b4900-1e70-11e9-91cd-56857b6f303c.gif)
